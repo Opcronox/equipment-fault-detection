@@ -6,9 +6,7 @@ __pycache__/
 data/*.csv
 data/*.zip
 artifacts/*.joblib
-# Environment variables and secrets
+!artifacts/my_random_forest.joblib
 .env
 .streamlit/secrets.toml
-
-# VS Code local settings
 .vscode/
