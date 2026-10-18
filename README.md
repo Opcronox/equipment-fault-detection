@@ -14,6 +14,14 @@ An interactive Streamlit dashboard allows users to input machine operating measu
 
 **Project scope:** This is an educational machine learning prototype. It classifies the failure status associated with individual observations and does not predict when future equipment failures will occur.
 
+## Application Preview
+
+The Streamlit dashboard allows users to enter machine operating
+parameters and receive a fault classification and estimated
+failure probability.
+
+![Equipment Fault Detection Dashboard](images/dashboard.png)
+
 ## 2. Dataset
 
 **Source:** [UCI Machine Learning Repository — AI4I 2020 Predictive Maintenance Dataset](https://doi.org/10.24432/C5HS5C)
