@@ -269,13 +269,13 @@ python download_dataset.py
 Train and save the machine learning model:
 
 ```bash
-python train_myself.py
+python train.py
 ```
 
 Launch the Streamlit dashboard:
 
 ```bash
-python -m streamlit run my_app.py
+python -m streamlit run app.py
 ```
 
 Open the local URL displayed in the terminal, usually `http://localhost:8501`.
