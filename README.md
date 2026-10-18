@@ -1,5 +1,18 @@
 # Equipment Fault Detection Using Machine Learning
 
+### Live Application
+
+**[Try the Equipment Fault Detection Dashboard](https://equipment-fault-detection-u5bmtavytndhmr7hojnmxd.streamlit.app/)**
+
+An interactive machine learning dashboard that classifies
+machine operating conditions using a trained Random Forest model.
+
+Users can enter six operating parameters to obtain a fault
+classification, estimated failure probability, and input warnings.
+
+Note: This is an educational prototype trained on synthetic data.
+
+
 **Python | Scikit-learn | Pandas | Random Forest | Logistic Regression | Streamlit**
 
 ## 1. Project Overview
